@@ -23,3 +23,7 @@ rustls = "0.23.14"
 [[example]]
 name = "bdk_sqlx_postgres"
 path = "examples/bdk_sqlx_postgres.rs"
+
+[[example]]
+name = "three_wallets"
+path = "examples/three_wallets.rs"
